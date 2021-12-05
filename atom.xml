@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://PTxiaohong.github.io</id>
+    <id>https://ptxiaohong.github.io</id>
     <title>小红不倒霉的个人网站</title>
-    <updated>2021-12-05T12:54:49.884Z</updated>
+    <updated>2021-12-05T13:09:20.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://PTxiaohong.github.io"/>
-    <link rel="self" href="https://PTxiaohong.github.io/atom.xml"/>
+    <link rel="alternate" href="https://ptxiaohong.github.io"/>
+    <link rel="self" href="https://ptxiaohong.github.io/atom.xml"/>
     <subtitle>物理治疗师小红。</subtitle>
-    <logo>https://PTxiaohong.github.io/images/avatar.png</logo>
-    <icon>https://PTxiaohong.github.io/favicon.ico</icon>
+    <logo>https://ptxiaohong.github.io/images/avatar.png</logo>
+    <icon>https://ptxiaohong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小红不倒霉的个人网站</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://PTxiaohong.github.io/post/hello-gridea/</id>
-        <link href="https://PTxiaohong.github.io/post/hello-gridea/">
+        <id>https://ptxiaohong.github.io/post/hello-gridea/</id>
+        <link href="https://ptxiaohong.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
