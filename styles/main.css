@@ -2131,8 +2131,8 @@ body {
       transition-duration: 59s;
       transition-timing-function: cubic-bezier(.34,0,.84,1);
     }.markdownIt-TOC a {
-      color: #eee;
-      border-bottom-color: #eee;
+      color: #ced4da;
+      border-bottom-color: #ced4da;
     }.markdownIt-TOC a:hover {
       color: #fff;
       border-bottom-color: #fff;
@@ -2158,10 +2158,10 @@ body {
       background-color: #fffffffe;
     }
     .site-meta {
-      background: #ffe066 !important;
+      background: #f8f9fa !important;
     }
     .head-top-line {
-      background: #ffe066;
+      background: #f8f9fa;
     }
     .brand {
   
