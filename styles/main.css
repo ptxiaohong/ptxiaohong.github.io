@@ -2158,19 +2158,19 @@ body {
       background-color: #fffffffe;
     }
     .site-meta {
-      background: #000 !important;
+      background: #e3fafc !important;
     }
     .head-top-line {
-      background: #000;
+      background: #e3fafc;
     }
     .brand {
   
     }
     .main-title, .brand {
-      color: #FFF !important;
+      color: #495057 !important;
     }
     .mist .site-title i {
-      background: #FFFFFFfe;
+      background: #495057fe;
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
