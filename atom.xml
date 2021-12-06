@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ptxiaohong.github.io</id>
     <title>小红不倒霉的个人网站</title>
-    <updated>2021-12-06T11:12:10.965Z</updated>
+    <updated>2021-12-06T11:29:47.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ptxiaohong.github.io"/>
     <link rel="self" href="https://ptxiaohong.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://ptxiaohong.github.io/images/avatar.png</logo>
     <icon>https://ptxiaohong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小红不倒霉的个人网站</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello，我是小红，欢迎来到我的个人主页]]></title>
+        <id>https://ptxiaohong.github.io/post/hellowo-shi-xiao-hong-huan-ying-lai-dao-wo-de-ge-ren-zhu-ye/</id>
+        <link href="https://ptxiaohong.github.io/post/hellowo-shi-xiao-hong-huan-ying-lai-dao-wo-de-ge-ren-zhu-ye/">
+        </link>
+        <updated>2021-12-06T11:18:22.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ptxiaohong.github.io/post-images/1638789551118.png" alt="" loading="lazy"></figure>
+<p>这里是我的个人博客，我将在微信公众号和这里， 分享我的学习和一些思考，可能比较没那么“休闲”，有那么些无聊艰涩。我希望写文章能帮助我记录和促进我学习，所以我希望尽可能保障专业性。希望大家多多批评多多交流，可以在评论区给我留言，或者在公众号私信我。我的公众号名“小红不倒霉”。欢迎你们的关注。😀</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西方手法物理治疗史]]></title>
         <id>https://ptxiaohong.github.io/post/xi-fang-shou-fa-wu-li-zhi-liao-shi/</id>
